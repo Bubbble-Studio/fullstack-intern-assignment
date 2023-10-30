@@ -1,7 +1,9 @@
-Assignment: Online Recipe Book
-Objective:
+## Intern Assignment
+
+#### Assignment: Online Recipe Book
+#### Objective:
 Design and implement an online recipe book where users can browse recipes, view detailed instructions, and add their own recipes.
-Timeline: 1 Week
+#### Timeline: 1 Week
 
 Features:
 ### 1. Homepage:
